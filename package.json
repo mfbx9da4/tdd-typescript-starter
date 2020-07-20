@@ -19,7 +19,7 @@
     "run-debug": "nodemon --inspect dist/server.js"
   },
   "dependencies": {
-    "lodash": "^4.17.15"
+    "lodash": "^4.17.19"
   },
   "devDependencies": {
     "@types/eslint": "^6.1.1",
